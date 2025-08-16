@@ -19,9 +19,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors (1 day ago)
-- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Sberbank acquiring API wrapper (client) for GO (3 days ago)
-- [helios-ag/tgstat-go](https://github.com/helios-ag/tgstat-go) - :rocket: TGStat.ru API Wrapper in Go (1 week ago)
+- [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors (2 days ago)
+- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Sberbank acquiring API wrapper (client) for GO (4 days ago)
+- [helios-ag/tgstat-go](https://github.com/helios-ag/tgstat-go) - :rocket: TGStat.ru API Wrapper in Go (2 weeks ago)
 
 #### 🌱 My latest projects
 
