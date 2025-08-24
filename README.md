@@ -20,8 +20,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Sberbank acquiring API wrapper (client) for GO (today)
+- [helios-ag/FMSummernoteBundle](https://github.com/helios-ag/FMSummernoteBundle) - FMSummernoteBundle, adds Summernote editor to your symfony project (today)
 - [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors (1 week ago)
-- [helios-ag/tgstat-go](https://github.com/helios-ag/tgstat-go) - :rocket: TGStat.ru API Wrapper in Go (3 weeks ago)
 
 #### 🌱 My latest projects
 
