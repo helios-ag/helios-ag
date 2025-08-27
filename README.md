@@ -20,14 +20,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [helios-ag/FMSummernoteBundle](https://github.com/helios-ag/FMSummernoteBundle) - FMSummernoteBundle, adds Summernote editor to your symfony project (1 day ago)
-- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Sberbank acquiring API wrapper (client) for GO (2 days ago)
+- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO) (2 days ago)
 - [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors (1 week ago)
 
 #### 🌱 My latest projects
 
 - [helios-ag/tgstat-go-examples](https://github.com/helios-ag/tgstat-go-examples) - :rocket: TGStat-Go example repo
 - [helios-ag/tgstat-go](https://github.com/helios-ag/tgstat-go) - :rocket: TGStat.ru API Wrapper in Go
-- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Sberbank acquiring API wrapper (client) for GO
+- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO)
 
 #### 🔭 Latest releases I've contributed to
 
