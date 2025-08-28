@@ -20,14 +20,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO) (today)
+- [helios-ag/go-logger](https://github.com/helios-ag/go-logger) - A unified logging library with interchangeable backends (today)
 - [helios-ag/go-health](https://github.com/helios-ag/go-health) - Library for enabling asynchronous health checks in your service (today)
-- [helios-ag/tgstat-go](https://github.com/helios-ag/tgstat-go) - :rocket: TGStat.ru API Wrapper in Go (today)
 
 #### 🌱 My latest projects
 
+- [helios-ag/go-logger](https://github.com/helios-ag/go-logger) - A unified logging library with interchangeable backends
 - [helios-ag/tgstat-go-examples](https://github.com/helios-ag/tgstat-go-examples) - :rocket: TGStat-Go example repo
 - [helios-ag/tgstat-go](https://github.com/helios-ag/tgstat-go) - :rocket: TGStat.ru API Wrapper in Go
-- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO)
 
 #### 🔭 Latest releases I've contributed to
 
