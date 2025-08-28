@@ -19,9 +19,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO) (today)
+- [helios-ag/tgstat-go](https://github.com/helios-ag/tgstat-go) - :rocket: TGStat.ru API Wrapper in Go (today)
 - [helios-ag/go-health](https://github.com/helios-ag/go-health) - Library for enabling asynchronous health checks in your service (today)
-- [helios-ag/FMSummernoteBundle](https://github.com/helios-ag/FMSummernoteBundle) - FMSummernoteBundle, adds Summernote editor to your symfony project (1 day ago)
-- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO) (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -31,6 +31,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [helios-ag/FMSummernoteBundle](https://github.com/helios-ag/FMSummernoteBundle) ([1.0](https://github.com/helios-ag/FMSummernoteBundle/releases/tag/1.0), 2 days ago) - FMSummernoteBundle, adds Summernote editor to your symfony project
+- [helios-ag/go-health](https://github.com/helios-ag/go-health) ([v1.2](https://github.com/helios-ag/go-health/releases/tag/v1.2), today) - Library for enabling asynchronous health checks in your service
+- [helios-ag/FMSummernoteBundle](https://github.com/helios-ag/FMSummernoteBundle) ([1.0](https://github.com/helios-ag/FMSummernoteBundle/releases/tag/1.0), 3 days ago) - FMSummernoteBundle, adds Summernote editor to your symfony project
 - [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) ([12.7.3](https://github.com/helios-ag/FMElfinderBundle/releases/tag/12.7.3), 2 months ago) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors
-- [lukeautry/tsoa](https://github.com/lukeautry/tsoa) ([v6.6.0](https://github.com/lukeautry/tsoa/releases/tag/v6.6.0), 8 months ago) - Build OpenAPI-compliant REST APIs using TypeScript and Node
