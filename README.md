@@ -31,6 +31,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) ([v0.2](https://github.com/helios-ag/sberbank-acquiring-go/releases/tag/v0.2), today) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO)
 - [helios-ag/go-health](https://github.com/helios-ag/go-health) ([v1.2](https://github.com/helios-ag/go-health/releases/tag/v1.2), 2 days ago) - Library for enabling asynchronous health checks in your service
 - [helios-ag/FMSummernoteBundle](https://github.com/helios-ag/FMSummernoteBundle) ([1.0](https://github.com/helios-ag/FMSummernoteBundle/releases/tag/1.0), 5 days ago) - FMSummernoteBundle, adds Summernote editor to your symfony project
-- [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) ([12.7.3](https://github.com/helios-ag/FMElfinderBundle/releases/tag/12.7.3), 2 months ago) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors
