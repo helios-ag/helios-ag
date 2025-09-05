@@ -19,9 +19,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [helios-ag/go-health](https://github.com/helios-ag/go-health) - Library for enabling asynchronous health checks in your service (4 days ago)
-- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO) (6 days ago)
-- [helios-ag/go-logger](https://github.com/helios-ag/go-logger) - A unified logging library with interchangeable backends (6 days ago)
+- [helios-ag/go-health](https://github.com/helios-ag/go-health) - Library for enabling asynchronous health checks in your service (5 days ago)
+- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO) (1 week ago)
+- [helios-ag/go-logger](https://github.com/helios-ag/go-logger) - A unified logging library with interchangeable backends (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -31,6 +31,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [helios-ag/go-logger](https://github.com/helios-ag/go-logger) ([v1.0](https://github.com/helios-ag/go-logger/releases/tag/v1.0), 4 days ago) - A unified logging library with interchangeable backends
-- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) ([v0.2](https://github.com/helios-ag/sberbank-acquiring-go/releases/tag/v0.2), 5 days ago) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO)
+- [helios-ag/go-logger](https://github.com/helios-ag/go-logger) ([v1.0](https://github.com/helios-ag/go-logger/releases/tag/v1.0), 5 days ago) - A unified logging library with interchangeable backends
+- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) ([v0.2](https://github.com/helios-ag/sberbank-acquiring-go/releases/tag/v0.2), 6 days ago) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO)
 - [helios-ag/go-health](https://github.com/helios-ag/go-health) ([v1.2](https://github.com/helios-ag/go-health/releases/tag/v1.2), 1 week ago) - Library for enabling asynchronous health checks in your service
