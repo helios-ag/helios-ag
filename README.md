@@ -19,15 +19,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [helios-ag/gigachat-symfony-ai-platform-bridge](https://github.com/helios-ag/gigachat-symfony-ai-platform-bridge) - PHP Symfony compatible client for Gigachat AI (today)
 - [helios-ag/go-health](https://github.com/helios-ag/go-health) - Library for enabling asynchronous health checks in your service (2 weeks ago)
 - [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO) (2 weeks ago)
-- [helios-ag/go-logger](https://github.com/helios-ag/go-logger) - A unified logging library with interchangeable backends (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [helios-ag/gigachat-symfony-ai-platform-bridge](https://github.com/helios-ag/gigachat-symfony-ai-platform-bridge) - PHP Symfony compatible client for Gigachat AI
 - [helios-ag/go-logger](https://github.com/helios-ag/go-logger) - A unified logging library with interchangeable backends
 - [helios-ag/tgstat-go-examples](https://github.com/helios-ag/tgstat-go-examples) - :rocket: TGStat-Go example repo
-- [helios-ag/tgstat-go](https://github.com/helios-ag/tgstat-go) - :rocket: TGStat.ru API Wrapper in Go
 
 #### 🔭 Latest releases I've contributed to
 
