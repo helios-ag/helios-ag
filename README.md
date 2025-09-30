@@ -19,8 +19,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [helios-ag/gigachat-symfony-ai-platform-bridge](https://github.com/helios-ag/gigachat-symfony-ai-platform-bridge) - PHP Symfony compatible client for Gigachat AI (4 days ago)
-- [helios-ag/go-health](https://github.com/helios-ag/go-health) - Library for enabling asynchronous health checks in your service (4 weeks ago)
+- [helios-ag/gigachat-symfony-ai-platform-bridge](https://github.com/helios-ag/gigachat-symfony-ai-platform-bridge) - PHP Symfony compatible client for Gigachat AI (5 days ago)
+- [helios-ag/go-health](https://github.com/helios-ag/go-health) - Library for enabling asynchronous health checks in your service (1 month ago)
 - [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO) (1 month ago)
 
 #### 🌱 My latest projects
@@ -31,6 +31,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [helios-ag/go-logger](https://github.com/helios-ag/go-logger) ([v1.0](https://github.com/helios-ag/go-logger/releases/tag/v1.0), 4 weeks ago) - A unified logging library with interchangeable backends
+- [helios-ag/go-logger](https://github.com/helios-ag/go-logger) ([v1.0](https://github.com/helios-ag/go-logger/releases/tag/v1.0), 1 month ago) - A unified logging library with interchangeable backends
 - [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) ([v0.2](https://github.com/helios-ag/sberbank-acquiring-go/releases/tag/v0.2), 1 month ago) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO)
 - [helios-ag/go-health](https://github.com/helios-ag/go-health) ([v1.2](https://github.com/helios-ag/go-health/releases/tag/v1.2), 1 month ago) - Library for enabling asynchronous health checks in your service
