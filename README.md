@@ -21,7 +21,7 @@
 
 - [helios-ag/go-health](https://github.com/helios-ag/go-health) - Library for enabling asynchronous health checks in your service (3 weeks ago)
 - [helios-ag/gigachat-symfony-ai-platform-bridge](https://github.com/helios-ag/gigachat-symfony-ai-platform-bridge) - PHP Symfony compatible client for Gigachat AI (1 month ago)
-- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO) (1 month ago)
+- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO) (2 months ago)
 
 #### 🌱 My latest projects
 
