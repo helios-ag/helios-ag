@@ -32,5 +32,5 @@
 #### 🔭 Latest releases I've contributed to
 
 - [helios-ag/go-logger](https://github.com/helios-ag/go-logger) ([v1.0](https://github.com/helios-ag/go-logger/releases/tag/v1.0), 1 month ago) - A unified logging library with interchangeable backends
-- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) ([v0.2](https://github.com/helios-ag/sberbank-acquiring-go/releases/tag/v0.2), 1 month ago) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO)
+- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) ([v0.2](https://github.com/helios-ag/sberbank-acquiring-go/releases/tag/v0.2), 2 months ago) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO)
 - [helios-ag/go-health](https://github.com/helios-ag/go-health) ([v1.2](https://github.com/helios-ag/go-health/releases/tag/v1.2), 2 months ago) - Library for enabling asynchronous health checks in your service
