@@ -19,9 +19,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors (today)
 - [helios-ag/gigachat-go](https://github.com/helios-ag/gigachat-go) - Gigachat AI Go language client (2 weeks ago)
 - [helios-ag/go-health](https://github.com/helios-ag/go-health) - Library for enabling asynchronous health checks in your service (1 month ago)
-- [helios-ag/gigachat-symfony-ai-platform-bridge](https://github.com/helios-ag/gigachat-symfony-ai-platform-bridge) - PHP Symfony compatible client for Gigachat AI (2 months ago)
 
 #### 🌱 My latest projects
 
