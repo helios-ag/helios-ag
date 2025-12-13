@@ -19,8 +19,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO) (3 days ago)
-- [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors (3 days ago)
+- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO) (4 days ago)
+- [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors (4 days ago)
 - [helios-ag/gigachat-go](https://github.com/helios-ag/gigachat-go) - Gigachat AI Go language client (1 month ago)
 
 #### 🌱 My latest projects
@@ -31,6 +31,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) ([13](https://github.com/helios-ag/FMElfinderBundle/releases/tag/13), 3 days ago) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors
+- [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) ([13](https://github.com/helios-ag/FMElfinderBundle/releases/tag/13), 4 days ago) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors
 - [helios-ag/go-logger](https://github.com/helios-ag/go-logger) ([v1.0](https://github.com/helios-ag/go-logger/releases/tag/v1.0), 3 months ago) - A unified logging library with interchangeable backends
 - [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) ([v0.2](https://github.com/helios-ag/sberbank-acquiring-go/releases/tag/v0.2), 3 months ago) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO)
