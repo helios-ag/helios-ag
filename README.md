@@ -19,7 +19,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [helios-ag/php_rutils](https://github.com/helios-ag/php_rutils) - php rutils - russian text handler for PHP (1 day ago)
+- [helios-ag/php_rutils](https://github.com/helios-ag/php_rutils) - php rutils - russian text handler for PHP (2 days ago)
 - [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors (1 week ago)
 - [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO) (2 months ago)
 
