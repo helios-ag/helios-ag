@@ -19,9 +19,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [helios-ag/tgstat-go](https://github.com/helios-ag/tgstat-go) - :rocket: TGStat.ru API Wrapper in Go (today)
 - [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO) (1 week ago)
 - [helios-ag/php_rutils](https://github.com/helios-ag/php_rutils) - php rutils - russian text handler for PHP (1 month ago)
-- [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors (1 month ago)
 
 #### 🌱 My latest projects
 
