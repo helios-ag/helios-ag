@@ -19,8 +19,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [helios-ag/tgstat-go](https://github.com/helios-ag/tgstat-go) - :rocket: TGStat.ru API Wrapper in Go (5 days ago)
-- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO) (1 week ago)
+- [helios-ag/tgstat-go](https://github.com/helios-ag/tgstat-go) - :rocket: TGStat.ru API Wrapper in Go (6 days ago)
+- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO) (2 weeks ago)
 - [helios-ag/php_rutils](https://github.com/helios-ag/php_rutils) - php rutils - russian text handler for PHP (1 month ago)
 
 #### 🌱 My latest projects
