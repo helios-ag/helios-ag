@@ -19,7 +19,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [helios-ag/tgstat-go](https://github.com/helios-ag/tgstat-go) - :rocket: TGStat.ru API Wrapper in Go (2 weeks ago)
+- [helios-ag/tgstat-go](https://github.com/helios-ag/tgstat-go) - :rocket: TGStat.ru API Wrapper in Go (3 weeks ago)
 - [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO) (4 weeks ago)
 - [helios-ag/php_rutils](https://github.com/helios-ag/php_rutils) - php rutils - russian text handler for PHP (1 month ago)
 
@@ -33,4 +33,4 @@
 
 - [helios-ag/php_rutils](https://github.com/helios-ag/php_rutils) ([1.3](https://github.com/helios-ag/php_rutils/releases/tag/1.3), 1 month ago) - php rutils - russian text handler for PHP
 - [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) ([13.0.2](https://github.com/helios-ag/FMElfinderBundle/releases/tag/13.0.2), 2 months ago) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors
-- [helios-ag/go-logger](https://github.com/helios-ag/go-logger) ([v1.0](https://github.com/helios-ag/go-logger/releases/tag/v1.0), 8 months ago) - A unified logging library with interchangeable backends
+- [helios-ag/go-logger](https://github.com/helios-ag/go-logger) ([v1.0](https://github.com/helios-ag/go-logger/releases/tag/v1.0), 9 months ago) - A unified logging library with interchangeable backends
