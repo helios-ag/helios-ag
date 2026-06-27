@@ -33,4 +33,4 @@
 
 - [helios-ag/php_rutils](https://github.com/helios-ag/php_rutils) ([1.3](https://github.com/helios-ag/php_rutils/releases/tag/1.3), 2 months ago) - php rutils - russian text handler for PHP
 - [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) ([13.0.2](https://github.com/helios-ag/FMElfinderBundle/releases/tag/13.0.2), 3 months ago) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors
-- [helios-ag/go-logger](https://github.com/helios-ag/go-logger) ([v1.0](https://github.com/helios-ag/go-logger/releases/tag/v1.0), 9 months ago) - A unified logging library with interchangeable backends
+- [helios-ag/go-logger](https://github.com/helios-ag/go-logger) ([v1.0](https://github.com/helios-ag/go-logger/releases/tag/v1.0), 10 months ago) - A unified logging library with interchangeable backends
