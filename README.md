@@ -33,4 +33,4 @@
 
 - [helios-ag/php_rutils](https://github.com/helios-ag/php_rutils) ([1.3](https://github.com/helios-ag/php_rutils/releases/tag/1.3), 4 months ago) - php rutils - russian text handler for PHP
 - [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) ([13.0.2](https://github.com/helios-ag/FMElfinderBundle/releases/tag/13.0.2), 5 months ago) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors
-- [helios-ag/go-logger](https://github.com/helios-ag/go-logger) ([v1.0](https://github.com/helios-ag/go-logger/releases/tag/v1.0), 1 year ago) - A unified logging library with interchangeable backends
+- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) ([v0.2](https://github.com/helios-ag/sberbank-acquiring-go/releases/tag/v0.2), 1 year ago) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO)
