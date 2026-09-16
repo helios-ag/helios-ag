@@ -20,7 +20,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [helios-ag/FMTinyMCEBundle](https://github.com/helios-ag/FMTinyMCEBundle) - Easily add TinyMCE WYSIWYG Text Editor to your Symfony Project (1 week ago)
-- [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors (1 week ago)
+- [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors (2 weeks ago)
 - [helios-ag/tgstat-go](https://github.com/helios-ag/tgstat-go) - :rocket: TGStat.ru API Wrapper in Go (1 month ago)
 
 #### 🌱 My latest projects
