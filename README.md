@@ -19,7 +19,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [helios-ag/FMTinyMCEBundle](https://github.com/helios-ag/FMTinyMCEBundle) - Easily add TinyMCE WYSIWYG Text Editor to your Symfony Project (4 weeks ago)
+- [helios-ag/FMTinyMCEBundle](https://github.com/helios-ag/FMTinyMCEBundle) - Easily add TinyMCE WYSIWYG Text Editor to your Symfony Project (1 month ago)
 - [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors (1 month ago)
 - [helios-ag/tgstat-go](https://github.com/helios-ag/tgstat-go) - :rocket: TGStat.ru API Wrapper in Go (1 month ago)
 
@@ -31,6 +31,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) ([13.0.3](https://github.com/helios-ag/FMElfinderBundle/releases/tag/13.0.3), 1 day ago) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors
-- [helios-ag/FMTinyMCEBundle](https://github.com/helios-ag/FMTinyMCEBundle) ([3.0](https://github.com/helios-ag/FMTinyMCEBundle/releases/tag/3.0), 4 weeks ago) - Easily add TinyMCE WYSIWYG Text Editor to your Symfony Project
+- [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) ([13.0.3](https://github.com/helios-ag/FMElfinderBundle/releases/tag/13.0.3), 2 days ago) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors
+- [helios-ag/FMTinyMCEBundle](https://github.com/helios-ag/FMTinyMCEBundle) ([3.0](https://github.com/helios-ag/FMTinyMCEBundle/releases/tag/3.0), 1 month ago) - Easily add TinyMCE WYSIWYG Text Editor to your Symfony Project
 - [helios-ag/php_rutils](https://github.com/helios-ag/php_rutils) ([1.3](https://github.com/helios-ag/php_rutils/releases/tag/1.3), 6 months ago) - php rutils - russian text handler for PHP
