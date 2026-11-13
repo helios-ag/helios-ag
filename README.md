@@ -19,7 +19,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO) (6 days ago)
+- [helios-ag/sberbank-acquiring-go](https://github.com/helios-ag/sberbank-acquiring-go) - Клиент эквайринга Сбербанка на Go (Sberbank acquiring API client for GO) (1 week ago)
 - [helios-ag/FMTinyMCEBundle](https://github.com/helios-ag/FMTinyMCEBundle) - Easily add TinyMCE WYSIWYG Text Editor to your Symfony Project (2 months ago)
 - [helios-ag/FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) - :file_folder: ElFinderBundle provides ElFinder integration with TinyMCE, CKEditor, Summernote editors (2 months ago)
 
